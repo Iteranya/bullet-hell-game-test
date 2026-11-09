@@ -1,0 +1,11 @@
+# Godot
+.godot/
+
+# Godlink MCP plugin cache
+addons/godot_mcp/cache/
+
+# Editor / OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

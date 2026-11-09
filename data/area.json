@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "grid": {"cell_size_px": 100, "cols": 16, "rows": 16},
+  "limits": {"max_towers": 6, "max_place_range_px": 520, "homebase_safe_radius_px": 220, "base_build_cost": 20, "cost_scale_per_tower": 0.5},
+  "areas": [
+    {"id": "homebase", "type": "homebase", "col": 7, "row": 7, "cols": 2, "rows": 2, "placeable": false, "spawns_enemies": false},
+    {"id": "field", "type": "field", "col": 0, "row": 0, "cols": 16, "rows": 16, "placeable": true, "spawns_enemies": true}
+  ]
+}

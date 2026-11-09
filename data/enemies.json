@@ -1,0 +1,1 @@
+{"schema_version":1,"enemies":{"chaser":{"hp":20,"speed":90,"damage":8,"drop":[1,2],"bullet_pattern":"none","color":[1.0,0.3,0.3,1.0]},"spinner":{"hp":40,"speed":40,"damage":10,"drop":[3,3],"bullet_pattern":"radial_8","color":[1.0,0.6,0.2,1.0]}}}

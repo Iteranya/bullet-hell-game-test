@@ -1,0 +1,1 @@
+{"schema_version":1,"arena_size_px":1600,"spawn_radius_px":700,"collision_layers":{"world":1,"player":2,"tower":3,"enemy":4,"player_bullet":5,"enemy_bullet":6,"pickup":7}}

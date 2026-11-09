@@ -1,0 +1,65 @@
+[
+  {
+    "type": "meta",
+    "action": "start",
+    "id": 0
+  },
+  {
+    "type": "label",
+    "action": "label",
+    "label": "start",
+    "id": 1
+  },
+  {
+    "type": "modify_background",
+    "action": "set",
+    "background": "asset/homebase.png",
+    "id": 2
+  },
+  {
+    "type": "show_sprite",
+    "action": "show",
+    "sprite": "operator",
+    "location": "characters/operator/default/normal.png",
+    "position": "CENTER",
+    "wRatio": 16,
+    "hRatio": 9,
+    "wFrameRatio": 4,
+    "hFrameRatio": 8,
+    "column": 7,
+    "row": 1,
+    "id": 3
+  },
+  {
+    "type": "dialogue",
+    "action": "say",
+    "label": "Operator",
+    "content": "Welcome back to Homebase, Sir.",
+    "id": 4
+  },
+  {
+    "type": "dialogue",
+    "action": "say",
+    "label": "Operator",
+    "content": "This tower cannot be harmed. The enemy will not come near it.",
+    "id": 5
+  },
+  {
+    "type": "dialogue",
+    "action": "say",
+    "label": "Operator",
+    "content": "Stay near a tower in the field and your shots draw strength. Gather Alloy, build, and return.",
+    "id": 6
+  },
+  {
+    "type": "remove_sprite",
+    "action": "remove",
+    "sprite": "operator",
+    "id": 7
+  },
+  {
+    "type": "finish_dialogue",
+    "action": "finish_dialogue",
+    "id": 8
+  }
+]

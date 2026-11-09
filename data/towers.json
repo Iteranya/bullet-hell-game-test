@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "towers": {
+    "field": {"hp": 300, "invulnerable": false, "aura_R": 250, "damage": 8, "fire_rate": 2, "bullet_type": "tower_bolt", "build_cost": 20, "sprite_path": null}
+  }
+}

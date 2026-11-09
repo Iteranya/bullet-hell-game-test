@@ -1,0 +1,1 @@
+{"schema_version":1,"triggers":[{"event":"game_start","script_file":"res://data/cutscenes/towerchain.json","start_label":"start"},{"event":"bond_threshold","script_file":"res://data/cutscenes/towerchain.json","start_label":"start"},{"event":"mission_complete","script_file":"res://data/cutscenes/towerchain.json","start_label":"start"}]}
